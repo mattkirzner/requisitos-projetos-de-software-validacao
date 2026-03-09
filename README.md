@@ -9,3 +9,7 @@ Descrição das pastas:
 -padroes-de-projetos-estruturais
 --padroes-de-projeto-estruturais.pdf - pdf com slides explicando padrões de projetos estruturais
 --RPSVAdapter - projeto em java com exemplo de um adapter
+
+-padroes-de-projetos-comportamentais
+--padroes-de-projeto-comportamentais.pdf - pdf com slides explicando padrões de projetos comportamentais
+--RPSVTemplate - projeto em java com exemplo de um template
